@@ -15,6 +15,7 @@ $routes->get('/mous', 'MainController::mous');
 $routes->get('/foreign-collaborations', 'MainController::foreignCollaborations');
 $routes->get('/postdoctoral', 'MainController::postdoctoral');
 $routes->get('/international-seminars', 'MainController::internationalSeminars');
+$routes->get('/international-students', 'MainController::internationalStudents');
 $routes->get('/press-news', 'MainController::pressNews');
 $routes->get('/about', 'MainController::about');
 $routes->get('/controllers', 'MainController::controllers');

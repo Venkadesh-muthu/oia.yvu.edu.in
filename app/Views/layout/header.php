@@ -60,6 +60,7 @@
           <li class="nav-item"><a href="<?= base_url('/foreign-collaborations') ?>" class="nav-link">Foreign Collaborations</a></li>
           <li class="nav-item"><a href="<?= base_url('/postdoctoral') ?>" class="nav-link">Postdoctoral</a></li>
           <li class="nav-item"><a href="<?= base_url('/international-seminars') ?>" class="nav-link">International Seminars</a></li>
+          <li class="nav-item"><a href="<?= base_url('/international-students') ?>" class="nav-link">International Students</a></li>
           <li class="nav-item"><a href="<?= base_url('/press-news') ?>" class="nav-link">Press News</a></li>
         </ul>
       </div>

@@ -50,6 +50,10 @@ class MainController extends BaseController
     {
         return $this->renderPage('International Seminars', 'international_seminars');
     }
+    public function internationalStudents()
+    {
+        return $this->renderPage('International Students', 'international_students');
+    }
     public function pressNews()
     {
         return $this->renderPage('Press News', 'press_news');

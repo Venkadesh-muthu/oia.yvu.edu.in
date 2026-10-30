@@ -13173,6 +13173,7 @@ textarea.form-control {
 .postdoctoral-photo-close:hover,.postdoctoral-photo-close:focus-visible{background:rgba(0,0,0,.8)}
 .postdoctoral-modal-image{display:block;margin:0 auto;max-width:100%;max-height:82vh;object-fit:contain}
 .seminar-speaker-photo{float:left;width:128px;height:128px;margin:0 20px 12px 0;border-radius:14px;object-fit:cover;object-position:center}
+.international-student-photo{display:block;width:220px;height:165px;max-width:100%;border-radius:12px;object-fit:cover;object-position:center}
 .press-news-card{height:100%;width:100%;margin:0;padding:0;overflow:hidden;display:flex;align-items:center;justify-content:center;border:1px solid #e5ebf1;border-radius:18px;background:#fff;box-shadow:0 12px 35px rgba(21,49,77,.06)}
 .press-news-trigger{cursor:zoom-in}
 body.press-news-page .ftco-navbar-light,body.press-news-page .ftco-navbar-light.scrolled{position:sticky!important;top:0;margin-top:0!important;transition:none!important}
